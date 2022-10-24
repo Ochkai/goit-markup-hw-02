@@ -136,6 +136,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
+  font-style: normal;
   letter-spacing: 0.03em;
   color: var(--hero-title-color);
 }
